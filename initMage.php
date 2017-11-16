@@ -13,6 +13,6 @@
  * SUPPORT@PLUGIN.COMPANY
  */
 ini_set('display_errors', 1);
-require_once('../extensions/contact-forms/app/Mage.php');
+require_once('../app/Mage.php');
 umask(0);
 Mage::app();
