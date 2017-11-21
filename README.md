@@ -9,6 +9,7 @@ Tool set for debugging Magento client sites
 * Database details
 * Adminer MySQL GUI
 * PHPTerm terminal emulator
+* phpinfo() output
 
 
 ### Usage
