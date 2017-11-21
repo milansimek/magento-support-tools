@@ -132,5 +132,6 @@ $_SESSION['logged_in'] = true;
     });
 </script>
 
+<?php phpinfo(); ?>
 </body>
 </html>
